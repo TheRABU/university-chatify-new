@@ -1,4 +1,4 @@
-# MERN Stack Project: Real Time Chat App | JWT, Socket.io MongoDB and React
+# Chat-i-Fy: A Real Time Chat App | JWT, Socket.io MongoDB and React
 
 Some Features:
 
