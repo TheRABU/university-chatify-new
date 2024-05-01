@@ -29,8 +29,8 @@ const LandingPage = () => {
                     We're not reinventing the wheel
                   </h3>
                   <p className="my-6 dark:text-gray-600">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dolor aliquam possimus quas, error esse quos.
+                    We are just making the available technology to create
+                    something.
                   </p>
                   <button type="button" className="self-start">
                     Action
